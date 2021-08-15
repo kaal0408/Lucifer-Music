@@ -1,37 +1,9 @@
-# pikachuMusic TELEGRAM VC MUSIC BOT 
-[![pikachuMusic logo](https://telegra.ph/file/ace19c111cb80565829a2.jpg)](https://t.me/PikachuX_Support)
+# LuciferMusic TELEGRAM VC MUSIC BOT 
+[![LuciferMusic logo](https://telegra.ph/file/1edd1a72dcbb34eea5f51.jpg)](https://t.me/LuciferXupport)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
 Neither su music project , nor pytgcalls are stable
-
-
-<p align="center">
-<a href="https://app.codacy.com/gh/W2HGalaxy-Op/W2HMusic?utm_source=github.com&utm_medium=referral&utm_content=W2HGalaxy-Op/W2HMusic&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
-<img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/W2HGalaxy-Op/W2HMusic" /> </a>
-<a href="http://hits.dwyl.com/W2HGalaxy-Op/W2HMusic" alt="HitCount"> <img src="http://hits.dwyl.com/W2HGalaxy-Op/W2HMusic.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/W2HGalaxy-Op/W2HMusic?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/W2HGalaxy-Op/W2HMusic" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/W2HGalaxy-Op/W2HMusic?style=flat&logo=github" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/W2HGalaxy-Op/W2HMusic?label=Forks&logo=github" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/W2HGalaxy-Op/W2HMusic?color=success" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/W2HGalaxy-Op/W2HMusic?style=flat&logo=github&color=yellow" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/W2HGalaxy-Op/W2HMusic?include_prereleases?style=flat&logo=github" /> </a>
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/W2HGalaxy-Op/W2HMusic" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://t.me/W2HMusicUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/W2HGalaxy-Op/W2HMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
 
 
 ## Requirements
@@ -71,11 +43,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/kaal0408/pikachuX-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/kaal0408/Lucifer-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HMusicBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](....) 
 
 
 ### Mandatory Vars.
@@ -114,18 +86,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/W2H_Music_1_BOT" alt="W2HMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2HMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/W2H_Userbot" alt="W2HMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-W2HMusic%20Updates-9cf" /> </a>
-
 ## Support
-- [Channel](https://t.me/W2H_userbot)
-- [Group](https://t.me/W2HSupport)
-
-## Credits
-- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
-- [iisgaurav](https://github.com/iisgaurav):DEV
-- [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
-- [Roj](https://github.com/rojserbest)
-- [Marvin](https://github.com/BlackStoneReborn)
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [Creater](https://t.me/Murat_30_God)
+- [Group](https://t.me/LuciferXSupport)
 

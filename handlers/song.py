@@ -61,7 +61,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**🎵 Uploaded by ✯W2HMusic✯**'
+        rep = '**🎵 Uploaded by ❄LuciferMusic❄**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
@@ -260,7 +260,7 @@ async def jssong(_, message):
     is_downloading = True
     text = message.text.split(None, 1)[1]
     query = text.replace(" ", "%20")
-    m = await message.reply_text("Searching... Via ✯W2HMusic✯")
+    m = await message.reply_text("Searching... Via ❄LuciferMusic❄")
     try:
         songs = await arq.saavn(query)
         sname = songs[0].song
